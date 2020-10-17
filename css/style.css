@@ -1,0 +1,60 @@
+
+body {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+}
+.header {
+    background: #8159F5;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+
+.header h1 {
+    font-size: 35px;
+    padding: 15px;
+}
+.container {
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    padding: 50px;
+}
+
+.box {
+    width: 50%;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+
+
+.box h1 {
+    width: 400px;
+    margin-bottom: 30px;
+    color: #8159F5;
+}
+
+
+.box p {
+    line-height: 24px;
+    font-size: 16px;
+}
+a.button {
+    background: #8159F5;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 50px;
+}
